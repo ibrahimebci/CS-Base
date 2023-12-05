@@ -1,4 +1,4 @@
-# 小林 x 图解计算机基础
+## 小林 x 图解计算机基础
 
 ![](https://cdn.jsdelivr.net/gh/xiaolincoder/ImageHost4@main/网站封面.png)
 
